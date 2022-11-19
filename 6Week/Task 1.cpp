@@ -9,7 +9,7 @@ int main(void) {
 	int a = 10;
 	int count = 1;
 
-	cout << "×èñëî\t" << "Ì³ñöå";
+	cout << Ğ§Ğ¸ÑĞ»Ğ¾\t" << "ĞœÑ–ÑÑ†Ğµ";
 
 	cin >> number;
 
@@ -40,7 +40,7 @@ int main(void) {
 		cnumber = number / a;
 	}
 
-	cout << "Ñóìà öèôğ, ìåíøèõ çà 7 : " << tagnum;
+	cout << "Ğ¡ÑƒĞ¼Ğ° Ñ†Ğ¸Ñ„Ñ€, Ğ¼ĞµĞ½ÑˆĞ¸Ñ… Ğ·Ğ° 7 : " << tagnum;
 
 	return 0;
 }
